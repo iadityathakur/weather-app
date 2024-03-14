@@ -1,0 +1,3 @@
+WEATHER APP:
+1. VIRTUAL DOM
+2. USE STATE MODULE (Cannot set properties of undefined (setting 'innerHTML')
